@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * **Kritik Mandal** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Kritik-Mandal/quiz-system/contributors) who participated in this project.
 
 ## License
 
